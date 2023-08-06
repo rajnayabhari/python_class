@@ -30,3 +30,24 @@
  => Adds all the changes to the git. This is done exactly before commiting the code.
 
 9. git commit -m "<commit-message>"
+
+10.git config --user.name <your-username>
+ => global hatayera use garyo bhane ye project ko lagi matra user name use hunxa.
+  global halyo bhane laptop ma bhako sab project lai autai username use hunxa
+
+
+11. git branch
+   => shows all the branches and highlights the current branch
+
+
+12. git branch -M main
+ => Makes "main" branch as the root branch
+
+
+13. git remote add origin <ssh.link>
+ => adds a remote with name 'origin' in local repo
+ => it helps to link local and remote repo
+
+
+14.git push -u origin main
+ =>It is used to push the file in git
