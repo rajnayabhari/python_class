@@ -6,6 +6,3 @@ print(result)
 
 product=a*b
 print(product)
-
-division=a/b
-print(division)
