@@ -12,7 +12,7 @@ why to use version control system??
 
 
 =>The project maintained with version control system is later updated somewhere in the cloud.
-=> There are several cloud storage services like google drive, onedrive, s3. But these storage system donot cooperate with version control
- (e.g. git)
+=> There are several cloud storage services like google drive, onedrive, s3. But these storage system donot 
+cooperate with version control(e.g. git)
 => so we should use such cloud services which unnderstand version control. There are several such services 
 for example, GitHub, GitLab, Bitbucket etc.

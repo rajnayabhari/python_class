@@ -15,3 +15,7 @@
 5. git merge
  => Merges the code from the branch provided to the current
  branch
+
+ 6. git pull
+  => remote ma gayera merge garepaxi local ma nih merge garauna use garne
+  => main lai chai sakesama remote ma gayera pull request banayera garne.

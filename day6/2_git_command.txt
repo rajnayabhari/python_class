@@ -18,7 +18,7 @@
  =>should not be used multiple times in a same project.
 
 
-6. git stauts
+6. git status
  =>show the current status of the local repo i.e any chnages that need to be added , commited, pushed or pull (upload or download) 
 
 7. .gitignore
