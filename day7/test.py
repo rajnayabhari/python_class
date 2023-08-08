@@ -11,3 +11,6 @@ print(product)
 
 division=(a/b)
 print(division)
+
+mode=(a//b)
+print((mode))
