@@ -1,7 +1,7 @@
 1. git branch
  => Displays all the branches and highlights the current branch
 
-2. git branch <brach_name>
+2. git branch <branch_name>
  => creates a new branch with the name provided
 
 3. git checkout <branch_name>
