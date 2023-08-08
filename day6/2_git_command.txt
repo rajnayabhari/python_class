@@ -55,5 +55,6 @@
  origin=> alias name for remote(github)
  main=> Remote "main" branch
  =>It is used to push the file in git
-Significance of -u(tracking the upstream) is that we can write only "git push" from next time onward. otherwise , we should write "git push origin main" everytime
- 15. 
+
+ Significance of -u(tracking the upstream) is that we can write only "git push" from next time onward. otherwise , we should write 
+ "git push origin main" everytime
