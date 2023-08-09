@@ -9,3 +9,7 @@ print(product)
 
 division=a/b
 print(division)
+
+
+modulus=(a//b)
+print(modulus)
