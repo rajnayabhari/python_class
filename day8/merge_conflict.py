@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 a=3
 b=4
 division=(a/b)
