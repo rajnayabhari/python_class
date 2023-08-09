@@ -1,0 +1,8 @@
+1st step cmd kholne
+2nd step "ssh-keygen" lekhne
+3rd step-: your identification has been saved in wala part ko "c:/user..../.ssh" sama copy garne anih
+ pyhton file bhako wala folder ko path ma copy garne
+4th step-:id_rsa_pub wala file ma gayera tes bhitra ko "ssh-rsa........."last sama copy garne
+5th step-:tya bata copy gareko key lai uta github account ko setting ma gayera sshkey wala part ma new ssh key bhanera add garera halne
+6th-: anih key add gare paxi program push hunxa ki hudanina herney
+7th-: first time git ma push garda kheri jaile "git push -u origin main" wala code use garera garne
