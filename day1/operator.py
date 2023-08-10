@@ -105,7 +105,7 @@ print(id(a)==id(b))#false
 # if an operation has multiple operators the precedence defines the order of such operators
 # if multiple operators have same precedence then the operation is done based  on associativity
 # Normally all the operators have left-right associativity except**
-print(2*3/3)#2
+print(2*6/3)#4
 #Here multiplication and division have same precedence but the associativity is from left-right.so, multiplication is done first then division
 print(2**3**2)#512
 # For** associativity is form right-left.so,3**2 is executed first
