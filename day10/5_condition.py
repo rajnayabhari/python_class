@@ -60,3 +60,15 @@ if a>10:
         print(f"{a}is just greater than 10")
 else:
     print(f"{a} is less than 10)")
+
+# ternary if
+# one-liner condition are called ternery if
+a=10
+b=5
+if a>b:
+    print("a is greater than b")
+else:
+    print("b is greaterr")
+
+# ternary if program
+print("a is greater") if a>b else print("b is greater")
