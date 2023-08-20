@@ -1,0 +1,23 @@
+def decorate_me(func):
+    def inner_func(*args,**kwargs):
+        print("I am the extra functionality")
+        return func(*args,**kwargs)
+    return inner_func
+
+
+@decorate_me
+def message(txt):
+   return txt
+print(message("Hello world"))
+
+@decorate_me
+def message1(txt1,txt2):
+   return txt1+txt2
+print(message1("Hello1","world"))
+
+
+
+@decorate_me
+def message2(txt1,txt2,txt3):
+   return txt1+txt2+txt3
+print(message2("Hello1"," world",txt3=" i am learning"))
