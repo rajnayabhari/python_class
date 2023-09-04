@@ -1,0 +1,26 @@
+1. observe the shape of the dataframe
+2. Use info() method to see the detail of DF
+3. set option to display max columns and rows
+4. get first 10 DFs
+5. get last 10 DFs
+6. use iloc in df to get:
+    i. first row
+    ii. 0,1,and 2rows
+    ii. 0,1 and 2 rows with first 2 columns
+    iv. random 3 rows with random 3 columns
+    v. random 10 rows with random 10 10 columns
+7. Use loc in df to:
+    i.get any three rows with any three random columns
+    ii. get 10 rows with 10 columns
+8. set the df index to "Respondent" with inplace=True
+9.sort the index in descending order
+10. Read schema.csv and set index to "Column" while reading the file
+11. find the meaning of the following columns for schema.csv file
+    i. MainBranch
+    ii. Hobbyist
+    iii.FizzBuzz
+    iv.MgrIdiot
+12. Filter DF in public.csv file whose salary is>70000
+13. Get "Country","student",and "Language" columns from above filter
+14. Filter the df whose country is in India,United Kingdom,Thailand and Canada
+15. Add further filter in above filter to check if the LanguageWorkedWith contains python or not
